@@ -14,7 +14,7 @@ Web performance optimization is always something that should be a top priority, 
 It is a very well know fact that faster website download speeds have been shown to increase visitor retention and loyalty, user satisfaction, especially for users with slow internet connections and those on mobile devices!  
 
 
-![test](why-performance.png)
+![test](assets/why-performance.png)
 
 
  
