@@ -34,7 +34,7 @@ Thanks to HTTP/2, you can now take advantage multiplexing to send and receive HT
 
 This means that you no longer need to tediously combine scripts into a single file.
 
-![multiplexing](assets/multiplexing.png)
+![multiplexing](multiplexing.png)
   
 
 
@@ -49,7 +49,7 @@ In many cases, a large portion of a website’s load time comes from external HT
 
 ## **3. Minify CSS, JS and HTML**
 
-![minify](assets/minify.png)
+![minify](minify.png)
  
 Minification techniques can help you eliminate unnecessary characters within a file. When you are writing code in an editor, you likely use indentations and notes. These methods certainly keep your code clean and readable, but they also add extra bytes to your document.
 
@@ -82,7 +82,7 @@ And here is the same snippet after minification has been applied.
 
 ## **4. Enable Prefetching**
 
-![Prefetching](assets/prefetching.png)
+![Prefetching](prefetching.png)
 
 Prefetching can improve your visitors’ browsing experience by fetching necessary resources and related data before they are needed. There are 3 main types of prefetching:
 
@@ -99,7 +99,7 @@ Fortunately, prefetching is easy to enable. Depending upon the type of prefetchi
 
 You can significantly improve the speed and performance of your website by using a content delivery network. When you use a CDN, you link your website’s static content to an extended network of servers across the globe. This is especially important if your website caters to a global audience. The CDN allows your site’s visitors to load data from their nearest server. If you use a CDN, your site’s files will automatically be compressed for rapid delivery across the globe.
 
-![CDN](assets/cdn.png)
+![CDN](cdn.png)
 
 A CDN is one method of caching that can greatly help improve the delivery times of your assets, however, there are other caching techniques that you can implement as well - one of which is to leverage browser caching.
 
@@ -108,7 +108,7 @@ Properly setting up browser caching allows your browser to store certain files w
 
 ## **6. Compress Your Files**
 
-![Compress](assets/compress.png)
+![Compress](compress.png)
 
 While many CDN services will compress your files for you, if you don’t use a CDN consider using a file compression method on your origin server to improve your front end optimization. File compression will make your site’s content light and easy to manage. One of the most commonly used file compression methods is Gzip. This is an excellent method for shrinking documents, audio files, PNG images, and other bulky files that have not already been compressed.
 
@@ -119,7 +119,7 @@ For people who are unaccustomed to the ways of front end optimization, images ca
 
 Each image file contains a trove of information that isn’t related to the actual photograph or picture. For JPEG photographs, the file contains dates, locations, camera specifications, and other irrelevant information. You can streamline an image’s lengthy loading process by deleting this extra image data with optimization tools such as Optimus. Optimus uses smart compression in that it uses losslessly optimizes PNG images.
 
-![Optimization](assets/optimization.png)
+![Optimization](optimization.png)
 
 On the other hand, Optimus uses slight lossy compression for JPEG images. Although lossy compression actually removes additional data from the image, the Optimus lossy compression settings are defined at a level where the user will see no visible quality loss. This allows users to save big on file sizes while maintaining high-quality images.
 
@@ -128,7 +128,7 @@ On the other hand, Optimus uses slight lossy compression for JPEG images. Althou
 
 Displaying web pages fast enough to meet user expectations is still a major challenge. Content caching, low-latency web hosting, image optimization, and other techniques can decrease page load time significantly, but not always fast enough. To solve this problem, developers optimize the critical rendering path to make the website immediately usable "above the fold" while the rest of the page loads.
 
-![Critical rendering path](assets/crp.png)
+![Critical rendering path](crp.png)
 
 ### **How Critical Rendering Path Works**
 
