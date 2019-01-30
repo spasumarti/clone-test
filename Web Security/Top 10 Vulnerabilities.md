@@ -1,5 +1,7 @@
 ## **OWASP- Top 10 Vulnerabilities in web applications**
 
+The <b>Open Web Application Security Project (OWASP)</b> is an online community produces freely-available articles, methodologies, documentation, tools, and technologies in the field of Web application security.
+
 1. [Injection](#injection)
 2. [Broken authentication and session management](#broken-authentication-and-session-management)
 3. [Cross-site scripting(XSS)](#cross-site-scripting(XSS))
@@ -352,4 +354,5 @@ To ensure the malicious intent of the attackers gets noticed beforehand, it is e
 
 ##### Below is a comparison of top 10 vulnerabilities of 2013 vs 2017. Do check for all of them as some of them may have trickled down the list but still be present.
 [![Top 10 vulnareilities](https://www.greycampus.com/ckeditor_assets/pictures/76/content_owasp18.png "Top 10 vulnareilities")](https://www.greycampus.com/blog/information-security/owasp-top-vulnerabilities-in-web-applications)
+
 https://www.indusface.com/blog/owasp-top-vulnerabilities
